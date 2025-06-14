@@ -1,0 +1,4 @@
+fastapi
+pymediainfo
+ffmpeg-python
+uvicorn
